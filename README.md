@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @iamsharlin
+- 👀 I’m interested in R
+- 🌱 I’m currently learning different skills for a Data Analyst.
